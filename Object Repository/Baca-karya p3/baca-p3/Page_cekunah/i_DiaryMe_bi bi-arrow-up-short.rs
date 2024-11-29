@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_DiaryMe_bi bi-arrow-up-short</name>
+   <tag></tag>
+   <elementGuidId>b22bedf2-e778-4b06-92d4-e110e5aa3867</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-arrow-up-short</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c877c921-c67a-42f1-91bc-e6a7139552c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-arrow-up-short</value>
+      <webElementGuid>8353190f-ebe6-47e9-87b8-9eddb0f033fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/a[@class=&quot;scroll-top d-flex align-items-center justify-content-center active&quot;]/i[@class=&quot;bi bi-arrow-up-short&quot;]</value>
+      <webElementGuid>eb950580-5959-43b6-9368-233f18be425c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/a/i</value>
+      <webElementGuid>6e317d21-bd95-4535-a1f7-b90b0bf43310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

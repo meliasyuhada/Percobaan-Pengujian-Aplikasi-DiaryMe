@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_DiaryMe_bi bi-linkedin</name>
+   <tag></tag>
+   <elementGuidId>e3bd5beb-4019-446a-8812-39b18e761a67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer']/div/div/div/div/a[4]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.social-links.d-flex.mt-4 > a.linkedin > i.bi.bi-linkedin</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0eb00a75-b83e-41be-9ab9-6a3f585b3b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-linkedin</value>
+      <webElementGuid>343f5210-306a-4fef-8d0f-ef0d6ebbe0ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row gy-4&quot;]/div[@class=&quot;col-lg-5 col-md-12 footer-info&quot;]/div[@class=&quot;social-links d-flex mt-4&quot;]/a[@class=&quot;linkedin&quot;]/i[@class=&quot;bi bi-linkedin&quot;]</value>
+      <webElementGuid>586f8728-80cc-4c1a-9e60-7074d7712977</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div/div/div/div/a[4]/i</value>
+      <webElementGuid>6cf2cc4a-4070-4821-92de-a9ed134c1d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a[4]/i</value>
+      <webElementGuid>e8651582-9625-46b6-88bb-1633f72b19c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

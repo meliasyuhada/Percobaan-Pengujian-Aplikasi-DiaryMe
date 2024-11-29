@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Log in_mobile-nav-toggle mobile-nav-show _374320</name>
+   <tag></tag>
+   <elementGuidId>9fad550e-696b-4426-b90b-147954a33153</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mobile-nav-toggle.mobile-nav-show.bi.bi-list</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9d5adbed-af18-437f-9157-0f02f1f1d951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mobile-nav-toggle mobile-nav-show bi bi-list</value>
+      <webElementGuid>10ed7e28-6ca9-4b0d-a3fb-b7d20f75f451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;container-fluid container-xl d-flex align-items-center justify-content-between&quot;]/i[@class=&quot;mobile-nav-toggle mobile-nav-show bi bi-list&quot;]</value>
+      <webElementGuid>08864d50-b1c1-450a-8735-b45f2691ee77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/i</value>
+      <webElementGuid>86e86d5c-b883-4583-9b67-7622c981a1a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/i</value>
+      <webElementGuid>a3125a5e-0bc6-42f0-9323-91830863836d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Posts_bi bi-chevron-down ms-auto</name>
+   <tag></tag>
+   <elementGuidId>8ace8b9c-1cb7-4c50-8797-6f399049b76e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='sidebar-nav']/li[2]/a/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-chevron-down.ms-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d751fe7b-f5fa-4d4c-a4be-9a15489ae903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-chevron-down ms-auto</value>
+      <webElementGuid>08a4bf1e-2add-43b6-9999-6f44be9b4f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/ul[@id=&quot;sidebar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/i[@class=&quot;bi bi-chevron-down ms-auto&quot;]</value>
+      <webElementGuid>1a073290-c608-4c90-9e85-77a6952d3850</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='sidebar-nav']/li[2]/a/i[2]</value>
+      <webElementGuid>af4049b7-2134-4ef9-9ecf-dc1d0811ed68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>3c69f93f-06c2-4a8c-a14b-0648b51b7d82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

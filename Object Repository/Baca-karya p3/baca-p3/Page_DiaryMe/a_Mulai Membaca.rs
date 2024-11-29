@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mulai Membaca</name>
+   <tag></tag>
+   <elementGuidId>e4dc992a-5cd0-4a68-8bb5-094a386e0b9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='hero']/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-get-started</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc6f9917-8611-4fc7-a1dc-e52adc1ac2ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/karya</value>
+      <webElementGuid>391b99d0-aea4-42a0-a138-cdae65380786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-get-started</value>
+      <webElementGuid>8fb0afd4-05b1-40a5-81f0-d18320888987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mulai Membaca</value>
+      <webElementGuid>345fe189-7d67-4643-8dbb-a0db9292007e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hero&quot;)/div[@class=&quot;container position-relative&quot;]/div[@class=&quot;row gy-5 aos-init aos-animate&quot;]/div[@class=&quot;col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start&quot;]/div[@class=&quot;d-flex justify-content-center justify-content-lg-start&quot;]/a[@class=&quot;btn-get-started&quot;]</value>
+      <webElementGuid>8ed01e68-c109-469f-95a3-8b5ec0b17941</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='hero']/div/div/div/div/a</value>
+      <webElementGuid>5904e871-c65d-475a-86e4-849df32b3a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mulai Membaca')]</value>
+      <webElementGuid>1884f784-d8b8-4081-913a-1b37b329391b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DiaryMe'])[4]/following::a[1]</value>
+      <webElementGuid>a57918cf-4414-48af-888a-a93c15d40792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DiaryMe'])[3]/following::a[1]</value>
+      <webElementGuid>6784f6a7-dbe0-45bd-83df-3491e93d4b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::a[1]</value>
+      <webElementGuid>f2e181e5-793e-4a99-aa02-ad73d7c1da46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[2]</value>
+      <webElementGuid>439ca633-048b-4e13-9110-700246d3970c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mulai Membaca']/parent::*</value>
+      <webElementGuid>3fc3fa8b-1583-41cf-9f7b-725f6637d8ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/karya')])[2]</value>
+      <webElementGuid>afb01e2a-9919-4936-96b7-cf58565901d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a</value>
+      <webElementGuid>8d02fe64-bd08-4f61-b791-fba8959477de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/karya' and (text() = 'Mulai Membaca' or . = 'Mulai Membaca')]</value>
+      <webElementGuid>84460054-73fa-435e-85c0-c712ef9b4826</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

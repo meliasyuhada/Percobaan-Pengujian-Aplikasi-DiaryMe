@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_html_img-fluid</name>
+   <tag></tag>
+   <elementGuidId>d7ceb858-f7f5-45a4-b05a-b76004408a87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='team']/div/div/div/div[3]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>14120de4-4f74-4637-b800-17cfb97dc243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://project-ubah.open/images/High Society Tea.png</value>
+      <webElementGuid>e06f2060-e2ee-461e-8006-6d631fdb8bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>2931deec-4611-4c5c-a1e6-34a778e748ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;team&quot;)/div[@class=&quot;container aos-init aos-animate&quot;]/div[@class=&quot;container mt-5&quot;]/div[@class=&quot;row gy-4&quot;]/div[@class=&quot;col-xl-3 col-md-6 d-flex aos-init aos-animate&quot;]/div[@class=&quot;member&quot;]/a[1]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>3fd50412-ce41-4c3f-b897-7b2c307df9b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='team']/div/div/div/div[3]/div/a/img</value>
+      <webElementGuid>f4a0e916-eaf3-456f-a711-66b2cbce65b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/img</value>
+      <webElementGuid>a62d5dca-f1cb-4ab6-8097-154a3e664369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://project-ubah.open/images/High Society Tea.png']</value>
+      <webElementGuid>9680fedb-e72b-4b39-a60e-27d27887c3a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
